@@ -118,6 +118,7 @@
     "        return self.data"
    ]
   },
+
   {
    "cell_type": "code",
    "execution_count": 90,
@@ -125,6 +126,7 @@
    "metadata": {
     "tags": []
    },
+
    "outputs": [],
    "source": [
     "class Selected_models:\n",
