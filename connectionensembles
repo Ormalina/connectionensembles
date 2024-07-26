@@ -70,6 +70,7 @@
     "        'None': {'active': True}}\n",
     "}\n",
     "\n",
+
     "PREDICTORS_PATH = f\"predictors.csv\"\n",
     "TARGET_PATH = f\"target.csv\"\n",
     "\n",
@@ -119,6 +120,7 @@
    ]
   },
 
+
   {
    "cell_type": "code",
    "execution_count": 90,
@@ -126,6 +128,7 @@
    "metadata": {
     "tags": []
    },
+
 
    "outputs": [],
    "source": [
@@ -193,6 +196,7 @@
     "        return self.top_ensembles['Model Combination'][0]"
    ]
   },
+
   {
    "cell_type": "code",
    "execution_count": 91,
