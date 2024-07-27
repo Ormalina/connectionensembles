@@ -119,8 +119,6 @@
     "        return self.data"
    ]
   },
-
-
   {
    "cell_type": "code",
    "execution_count": 90,
@@ -128,8 +126,6 @@
    "metadata": {
     "tags": []
    },
-
-
    "outputs": [],
    "source": [
     "class Selected_models:\n",
@@ -196,7 +192,6 @@
     "        return self.top_ensembles['Model Combination'][0]"
    ]
   },
-
   {
    "cell_type": "code",
    "execution_count": 91,
